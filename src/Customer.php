@@ -1,5 +1,7 @@
 <?php
 
+namespace BelajarComposer\Library;
+
 class Customer {
 
     public function __construct(private string $name)
